@@ -34,7 +34,7 @@ There is a pressing need for a comprehensive and user-friendly tour package webs
 
 # Project Description:
 Our proposed project is a groundbreaking tour package website designed to revolutionize the way  individuals plan and experience their dream vacations. Recognizing the existing challenges in the travel industry, we aim to develop a user-centric platform that provides a seamless, transparent, and customizable travel planning experience.
-Key Features:
+Key Features
 1. Intuitive User Interface
 2. Customization Options
 3. Transparent Pricing
