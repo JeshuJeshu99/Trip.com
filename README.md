@@ -26,7 +26,7 @@ Industry: Travel and Tourism Industry
 
 # Azure AI Service:
 1. language service
-2. Azure bot service
+2. Azure Bot service
 3. Data protection 
 
 # Problem Statement:
