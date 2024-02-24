@@ -48,17 +48,14 @@ As we envision the continual evolution of our tour package website, we plan to i
 # Core Azure Services
 **Azure Storage:**
 Integrating Azure Storage enhances our tour package website’s capabilities. Integrating Azure Blob storage efficiently stores and serves VR Content, Providing a seamless virtual travel experience Azure Block chain Service ensures secure financial transactions, instilling confidence in users. Azure Cosmos DB manages social integration data for seamless sharing. Azure Table Storage supports dynamic pricing and real-time updates. Azure Spatial Anchors enables AR travel guides, offering real-time information. Azure Data Lake Storage aids in analyzing sustainability initiatives. Azure SQL Database ensures scalability for destination data. Together, these Azure solutions contribute to a secure, scalable, and innovative platform, elevating the user experience and meeting evolving industry demands.
-
 **Blob service:**
 Azure Blob Storage elevates our tour package website by efficiently storing and  delivering immersive VR content, ensuring a seamless virtual travel experience. This scalable service simplifies data management for dynamic pricing, real-time updates, and destination information. With Azure Blob Storage, our platform gains high-performance data storage, reliable content delivery, and a visually rich interface, enhancing the overall user experience.
-
 **Containers:**
 Container services, such as those provided by Docker and managed container orchestration platforms like Kubernetes, play a pivotal role in modern software development projects.
 
 # Azure AI service
 **Language service:**
 The projects service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows.
-
 **Azure bot service:**
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots are software applications designed to interact with users through natural language conversations.
 
