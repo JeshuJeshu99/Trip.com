@@ -21,7 +21,7 @@ Industry: Travel and Tourism Industry
 # Azure Services Used
 **Core Azure Service:**
 1. Azure Storage
-2. Blob service
+2. Blob Service
 3. Containers
 
 # Azure AI Service:
