@@ -27,7 +27,7 @@ Industry: Travel and Tourism Industry
 # Azure AI Service:
 1. Language service
 2. Azure Bot service
-3. Data protection 
+3. Data Protection 
 
 # Problem Statement:
 Despite the increasing demand for seamless and personalized travel experiences, there exists a notable gap in the travel industry that hinders travellers from efficiently planning and booking their dream vacations. Traditional travel planning often involves navigating through overwhelming amounts of information from various sources, leading to confusion, indecision, and potential overspending. Additionally, the lack of transparent pricing and customization options in existing tour package websites can result in a less-than-ideal travel experience for users.
