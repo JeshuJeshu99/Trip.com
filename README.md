@@ -61,6 +61,7 @@ The projects service provides a range of features that enhance productivity, cod
 
 **Azure bot service:**
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots are software applications designed to interact with users through natural language conversations.
+
 **Azure Backup Service:**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment. 
 
@@ -70,7 +71,6 @@ Description: Storage services encompass a range of solutions designed to store, 
 
 ![image](https://github.com/JeshuJeshu99/Trip.com/assets/159115185/b5be33f5-c10f-4586-afbe-3700f02f36f9)
 
- 
  **Blob service:**
  Across Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud.
 
