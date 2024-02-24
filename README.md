@@ -25,7 +25,7 @@ Industry: Travel and Tourism Industry
 3. Containers
 
 # Azure AI Service:
-1. language service
+1. Language service
 2. Azure Bot service
 3. Data protection 
 
