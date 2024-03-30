@@ -10,7 +10,7 @@ Welcome to our premier trip.com website, where we bring your dream vacations to 
 At our tour package website, we understand that planning a trip can be a daunting task. That's why we strive to make the process as effortless as possible, providing you with a diverse range of meticulously crafted packages that cater to various budgets and interests. Our user-friendly interface allows you to browse through an extensive collection of destinations, each offering a unique blend of adventure, relaxation, and cultural enrichment.
 
 # Company Project Details	
-Project Demo URL:https:https://trip1.z7.web.core.windows.net/
+Project Demo URL:https://travel21.z13.web.core.windows.net/
 
 Demo Video URL:https://www.youtube.com/watch?v=hccJdYauP4s
 
